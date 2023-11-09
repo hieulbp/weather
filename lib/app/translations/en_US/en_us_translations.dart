@@ -1,0 +1,27 @@
+final Map<String, String> enUs = {
+  'Hello' : 'Hello',
+  'Good Morning!' : 'Good Morning!',
+  'Good Afternoon!' : 'Good Afternoon!',
+  'Good Evening!' : 'Good Evening!',
+  'Good Night!' : 'Good Night!',
+  'High: ' : 'High: ',
+  'Low: ' : 'Low: ',
+  'Today' : 'Today',
+  'Tomorrow' : 'Tomorrow',
+  'Sunrise' : 'Sunrise',
+  'Sunset' : 'Sunset',
+  'Air quality' : 'Air quality',
+  'Wind' : 'Wind',
+  'Feel like' : 'Feel like',
+  'Moderate' : 'Moderate',
+  'Low' : 'Low',
+  'High' : 'High',
+  'Very High' : 'Very High',
+  'Setting' : 'Setting',
+  'Language' : 'Language',
+  'Vietnamese' : 'Vietnamese',
+  'English' : 'English',
+  'Temperature' : 'Temperature',
+  'Apply' : 'Apply'
+
+};
