@@ -191,7 +191,7 @@ class HomeController extends GetxController {
       greeting = "Good Night!".tr;
     }
 
-    return '$greeting Homebase';
+    return greeting;
 
   }
 
